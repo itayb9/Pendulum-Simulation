@@ -40,7 +40,13 @@ $$
 \ddot{\theta} + \frac{g}{L}\sin\theta = 0
 $$
 
-In this simulation, we will use the small angle approximation $$ \sin\theta \approx \theta $$ and therfore our final equation of motion for our problem will be:
+In this simulation, we will use the small angle approximation
+
+$$
+\sin\theta \approx \theta 
+$$ 
+
+and therfore our final equation of motion for our problem will be:
 
 $$
 \ddot{\theta} + \frac{g}{L}\theta = 0
